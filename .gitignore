@@ -1,0 +1,15 @@
+/venv
+/videosdk.yaml
+/build
+./vkyc-react-sdk-example/node_modules
+./vkyc-react-sdk-example/build
+./vkyc-react-sdk-example/env
+
+# Environment files
+*.env
+.env.*
+!.env.example
+
+# macOS metadata
+**/.DS_Store
+.DS_Store

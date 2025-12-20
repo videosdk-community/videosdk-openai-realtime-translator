@@ -1,0 +1,53 @@
+{
+  "name": "dynamic-react-sdk-example",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://lab.videosdk.live/r-link/translation",
+  "dependencies": {
+    "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "^2.0.13",
+    "@popperjs/core": "^2.11.7",
+    "@videosdk.live/react-sdk": "^0.4.2",
+    "@videosdk.live/videosdk-media-processor-web": "^0.0.12",
+    "lottie-react": "^2.3.1",
+    "react": "^18.2.0",
+    "react-cropper": "^2.1.8",
+    "react-dom": "^18.2.0",
+    "react-player": "^2.11.0",
+    "react-responsive": "^9.0.2",
+    "react-scripts": "^5.0.1",
+    "react-toastify": "^9.1.1",
+    "uuid": "^11.1.0",
+    "web-vitals": "^3.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+videosdk==0.2.0
+httpx
+numpy
+python-dotenv
+pydantic
+scipy
+onnxruntime
